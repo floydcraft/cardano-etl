@@ -20,7 +20,7 @@ If you want instant Cardano data and you rather NOT export the blockchain yourse
 - Meaningful step towards the democratization of Cardano Data in a scalable and accessible way.
 - Easy to use Cardano ETL CLI to export Cardano data from a node with both batch and streaming support into many convenient data formats/streams.
 - Realtime Cardano public BigQuery data operated with validation.
-- Useful Cardano insights derived from raw, summerized, and aggregate data by developers, data scientists/engineers, and product owners that minimized/eliminates technical blockers for access to those insights.
+- Useful Cardano insights derived from raw, summarized, and aggregate data by developers, data scientists/engineers, and product owners that minimized/eliminates technical blockers for access to those insights.
 
 ## Auditability
 - Opt-out/optional reporting of anonymous usage statistics of Cardano ETL features also as public BigQuery data.
@@ -77,7 +77,7 @@ One note on the Cardano ETL CLI. The idea is that it supports exporting to all l
 - Ideally find a partner with the right skillsets and alignment of core values to contribute / contract.
 - Use open source model for less direct potential contributions (bugs, target exporters) once the framework is in place.
 
-## Future Funding (for both operations and developments)
+## Future Funding (for both operations and development)
 - Will setup a Cardano ETL Stakepool that purpose is contributing it's proceeds to the funding of this project
 - Potentially/likely to make proposals when it makes sense through Catalyst
 - Would love to share/grow my data driven knowledge and experiences with the community if it turns out to be interesting and reinvest that into this foundation.
