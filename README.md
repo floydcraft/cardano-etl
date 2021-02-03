@@ -51,7 +51,7 @@ LIMIT 1000
 
 6. Congratulations! You should now see the `output per cell with plots`!
 
-## Quickstart: Cardano ETL
+### Cardano ETL CLI
 > NOTE: this section is hypothetical atm (modeled after ethereum-etl), but is the general approach planned.
 
 Install Cardano ETL (python3):
