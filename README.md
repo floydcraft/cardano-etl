@@ -1,5 +1,5 @@
 
-[![Cardano Project Catalyst Fund3 - Discord](https://img.shields.io/badge/discord-join%20chat-blue.svg)](https://discord.gg/QRBcuvbQ)
+[![Cardano Project Catalyst Fund3 - Discord](https://img.shields.io/badge/discord-join%20chat-blue.svg)](https://discord.gg/aUAcM8FmpJ)
 
 ## Overview
 [Cardano ETL](https://github.com/floydcraft/cardano-etl) is a proposal for [Project Catalyst Fund3](https://cardano.ideascale.com/a/dtd/Cardano-ETL-Public-BigQuery-Data/334530-48088).
