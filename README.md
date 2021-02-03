@@ -5,9 +5,11 @@
 
 [Cardano ETL](https://github.com/floydcraft/cardano-etl) is a proposal for [Project Catalyst Fund3](https://cardano.ideascale.com/a/dtd/Cardano-ETL-Public-BigQuery-Data/334530-48088) and will support transformation of Cardano blockchain data into convenient formats like CSV, JSON Newline, GCP PubSub, and relational databases.
 
-Initially we will support exporting CSV, JSON Newline Delimited, and GCP PubSub. We will expand into additional convenient formats in later phases and milestones likely based on the success of this Fund3 effort (both technology and vlog lessons/amas/deep dives).
+Initially we will support exporting CSV, JSON Newline Delimited, GCP PubSub. We will also operate a passive stakepool that streams in realtime to a public BigQuery dataset for everyone to use using PubSub/Dataflow pipeline/BigQuery.
 
-If you want instant Cardano data and you rather not export the blockchain yourself using `cardanoetl`; please checkout the quickstart below for our realtime public BigQuery data!
+We will expand into additional convenient formats in later phases and milestones likely based on the success of this Fund3 effort (both technology and vlog lessons/amas/deep dives).
+
+If you want instant Cardano data and you rather NOT export the blockchain yourself using `cardanoetl`; please checkout the quickstart below for our realtime public BigQuery data!
 
 ## Quickstarts
 ### Public BigQuery data: GCP BigQuery Console
@@ -73,6 +75,27 @@ Export blocks and transactions:
 --output transactions.json --output-format json-newline-delimited \
 --provider-uri X.X.X.X
 ```
+
+## Cardano ETL: Public BigQuery Data
+> Project Catalyst Fund3 Proposal
+### Plan
+
+
+
+Overview / Fund 3
+
+3-4 Months Development Part Time (Nights and Weekends)
+Target 3 Months of Alpha / Beta
+6 Months of Operations
+Vlog my experience digging into Cardano / Haskell / Catalyst / This Proposal
+Target weekly Youtube AMA’s if the community shows interest
+Big Data?
+BigQuery?
+ETL?
+
+
+
+
 
 ## YouTube Playlist: [Cardano ETL](https://www.youtube.com/watch?v=QeFCzwNBR5U&list=PLy-_xx3OXqCkGookx2F3ob2_fuPVx2uqW)
 ### Cardano ETL: [Public BigQuery Data](https://www.youtube.com/watch?v=QeFCzwNBR5U)
