@@ -17,7 +17,8 @@ We will expand into additional convenient formats in later phases and milestones
 If you want instant Cardano data and you rather NOT export the blockchain yourself using `cardanoetl`; please checkout the quickstart below for our realtime public BigQuery data!
 
 ## Target Impact
-- Meaningful step towards the democratization of Cardano Data in a scalable and accessible way with both batch and streaming support.
+- Meaningful step towards the democratization of Cardano Data in a scalable and accessible way.
+- Easy to use Cardano ETL CLI to export Cardano data from a node with both batch and streaming support into many convenient data formats/streams.
 - Realtime Cardano public BigQuery data operated with validation.
 - Useful Cardano insights derived from raw, summerized, and aggregate data by developers, data scientists/engineers, and product owners that minimized/eliminates technical blockers for access to those insights.
 
